@@ -8,9 +8,9 @@ Hoje, além de atuar como pesquisadora, estou me preparando para entrar no merca
 
 - Professora voluntária na Universidade Federal do Rio Grande do Norte 👩‍🏫
 
-- Membro da comissão de mídias sociais da [International Society for Human Ethology](https://ishe.org/) 🌎
+- Trabalho voluntário como analista de mídias sociais da [International Society for Human Ethology](https://ishe.org/) 🌎
 
-- Aluna do bootcamp de Data Analytics pela [WoMakersCode](https://womakerscode.org/) 📊
+- Bootcamp em Data Analytics [WoMakersCode](https://womakerscode.org/) (concluído em dez/24) 📊
 
 - Consultora em estatística e métodos acadêmicos para estudantes de ciências e psicologia 📚
 
@@ -48,9 +48,9 @@ Currently, I’m working as a researcher and gearing up to transition into a rol
 
 - Volunteer professor at the Federal University of Rio Grande do Norte 👩‍🏫
 
-- Social media committee member at the [International Society for Human Ethology](https://ishe.org/) 🌎
+- Volunteer work as a social media analyst at the [International Society for Human Ethology](https://ishe.org/) 🌎
 
-- Data Analytics bootcamp student at [WoMakersCode](https://womakerscode.org/) 📊
+- Data Analytics Bootcamp at [WoMakersCode](https://womakerscode.org/) (completed in Dec/24) 📊
 
 - Academic and statistical consultant for undergraduates in science and psychology 📚
 
