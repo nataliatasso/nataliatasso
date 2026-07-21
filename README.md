@@ -1,40 +1,51 @@
-## Hi there! I’m Natalia Tasso 👋 
+## Hi there! I’m Natália Tasso 👋
 
-🎓 I'm a trained biologist with a PhD in Psychobiology and over ten years of experience working with data through statistical analyses.
+🔬 **Behavioral Researcher (PhD)**
 
-💼 Here are a few of my roles and interests:
+I hold a PhD in Behavioral Sciences, with a focus on quantitative research methods, evolutionary approaches, and open science practices. My background involves using data science tools to process and analyze biological and behavioral datasets.
 
-- Volunteer professor at the Federal University of Rio Grande do Norte 👩‍🏫
+---
 
-- Volunteer work as a social media analyst at the [International Society for Human Ethology](https://ishe.org/) 🌎
+### 💼 Research & Academic Activities
 
-- Data Analytics Bootcamp at [WoMakersCode](https://womakerscode.org/) (completed in Dec/24) 📊
+- **Peer Reviewer** for *[Frontiers in Psychology](https://www.frontiersin.org/journals/psychology)*, reviewing manuscripts in behavioral sciences and quantitative approaches
+- **Scientific Mentor & Consultant**, assisting students with research methodology, data analysis, and manuscript preparation
+- **Social Media Volunteer** for the *[International Society for Human Ethology (ISHE)](https://ishe.org/)*, helping with global science communication
+- Interested in data workflows applied to academic research, including statistical analysis, data cleaning, and reproducible reporting
 
-- Academic and statistical consultant for undergraduates in science and psychology 📚
+---
 
-- I’m currently working on:
+### 🛠️ Tools & Technologies Used in My Work
 
 <div display='inline'>
-<img width='50' weight='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width='50' weight='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" />
-<img width='50' weight='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-plain.svg" alt="RStudio" />
+  <img width='45' height='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" />
+  <img width='45' height='45' src="https://cdn.simpleicons.org/knime/F9B200" alt="KNIME" />
 </div>
 
-### You can also find me on:
+---
 
-<a href='https://medium.com/@tasso.nati'>
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+### 🔗 Connect with me:
+
+<a href='mailto:tasso.nati@gmail.com'>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href='https://www.linkedin.com/in/natalia-tasso/'>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href='https://orcid.org/0000-0002-2102-8577'>
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+<a href='https://osf.io/gudxw/'>
+  <img src="https://img.shields.io/badge/OSF-337AB7?style=for-the-badge&logo=openaccess&logoColor=white" alt="OSF" />
 </a>
 <a href='http://lattes.cnpq.br/4403114871958627'>
-<img width='85' src="https://img.shields.io/badge/-Lattes-orange?style=flat-square&logo=GitBook&logoColor=white" />
-</a>
-<a href='mailto:tasso.nati@gmail.com'>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lattes-167C80?style=for-the-badge&logo=gitbook&logoColor=white" alt="Lattes" />
 </a>
 </div>
+
+
 <!--
 **nataliatasso/nataliatasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
